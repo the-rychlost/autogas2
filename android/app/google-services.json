@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675105497225",
+    "project_id": "autogas-fdad0",
+    "storage_bucket": "autogas-fdad0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675105497225:android:f0ae5640890ae6f546e658",
+        "android_client_info": {
+          "package_name": "com.example.autogas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675105497225-5u46cje3b9iidr23g41otjmk7r8usa1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBKBFtyIs1bZ3ns2gTZ4JRIl-pxPBqZdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675105497225-5u46cje3b9iidr23g41otjmk7r8usa1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
